@@ -1,12 +1,13 @@
 body{
     background:linear-gradient(rgba(211, 238, 175, 0.61),green);
-    min-height: 100vh;
+    height: 100vh;
    
 }
 .container{
-    min-height: 50vh;
+    min-height: 65vh;
+    max-height: 65vh;
    overflow-y: auto;
-    background-color: aliceblue;
+    background-color: rgb(253, 240, 240);
     border: 2 solid green;
     border-radius: 18px;
 }
